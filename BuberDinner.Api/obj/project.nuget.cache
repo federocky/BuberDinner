@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XL2p22+5bvA8d9G5bnJqFUjGAd09LglTm3aG65KL1erCU5e80P/UPSJRHnxMA+YhTl1DkNkGKf/XRT/hvZX1ew==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fajacome\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\fajacome\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
