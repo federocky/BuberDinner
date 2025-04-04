@@ -36,3 +36,4 @@ C:\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Contracts.p
 C:\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Application.pdb
 C:\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Infraestructure.pdb
 C:\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
